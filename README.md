@@ -5,7 +5,7 @@
 不追热点清单，只留下真正改变过做事方式的东西。
 
 <p align="center">
-  <img src="assets/mascot.gif" alt="权小白" width="280" />
+  <img src="assets/qxb.gif" alt="权小白" width="280" />
 </p>
 
 ## 在这里
