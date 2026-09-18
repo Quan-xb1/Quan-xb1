@@ -5,15 +5,7 @@
 不追热点清单，只留下真正改变过做事方式的东西。
 
 <p align="center">
-  <a href="https://aihub.quanxb.art/">
-    <img src="assets/mascot.gif" alt="权小白的私人索引" width="760" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://quanxb.art/">
-    <img src="assets/site.gif" alt="quanxb.art 个人站" width="760" />
-  </a>
+  <img src="assets/mascot.gif" alt="权小白" width="280" />
 </p>
 
 ## 在这里
